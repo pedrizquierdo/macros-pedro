@@ -1,4 +1,4 @@
-const CACHE = "macros-v2";
+const CACHE = "macros-v4";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icon-192.png", "icon-512.png", "icon-180.png"];
 
 self.addEventListener("install", e => {
